@@ -1,0 +1,73 @@
+Captain,Country,ID,Boat,Owner,Type
+Franck Vallet,GB,301,Free Spirit S,Soubiran Bruno,CAT_L
+Max Anckaert,NL,302,Lady Bizoe,Max Anckaert,MONO_L
+Frank Van Monsjou,NL,303,Laumare,Frank Van Monsjou,MONO_L
+Roy Graham,GB,304,Clyde Challenger,Glenn Porter,MONO_L
+James Nathan,VG,307,Miss Tiggy,James Nathan,MONO_L
+George Malek,GB,308,Eau Too,George Malek,MONO_L
+Joachim Riel,DE,309,Mariela,Joachim Riel,MONO_L
+David Pedley,GB,310,Sea Flute,David Pedley,MONO_L
+null,AU,311,Sea Mist 2,Barry Topple,MONO_L
+Andrew Sawyer,MT,312,Baby Blue,Daniel Constantinis,MONO_L
+Hans-Peter Neumayer,DE,313,Rainbow,Hans-Peter Neumayer,MONO_L
+Marcel Baldinger,CH,314,Shamal,Marcel Karl Baldinger,MONO_L
+Stephen Kingsman,GB,315,Sumore,Stephen Kingsman,CAT_L
+Roland Bechtiger,CH,316,Scallywag,Roland Bechtiger,MONO_L
+Ingve Kjelsrud,NO,317,Summer Star,Ingve Kjelsrud,MONO_M
+Hans Mosbacher,DE,318,M one,Hans Mosbacher,MONO_L
+Evgeny Vanykin,VG,319,Celebrity,Evgeny Vanykin,MONO_L
+Robert Jan Van den Enden,VG,320,Talaba,Robert Jan Van den Enden,MONO_M
+Nigel Betts,GB,321,Venture,Nigel Betts,MONO_M
+Joseph Hayek,US,322,Boysterous,Joseph Hayek,MONO_M
+Arnaldo Brito Martinez,GB,323,Masa Yume,Arnaldo Brito Martinez,MONO_L
+Jean Pierre Schiavi,FR,324,Cat'leya,Jean Pierre Schiavi,CAT_L
+David Kirby,VG,325,Dreamcatcher,David Kirby,CAT_L
+Andre Franell,DE,326,Lea,Andre Franell,CAT_L
+Ingve Kjelsrud,NO,327,Opptur,Ingve Kjelsrud,CAT_L
+Alfred Hughes,US,328,Unconditional,Alfred Hughes,MONO_M
+Lars Hossler,SE,330,Jennifer,Lars Hossler,MONO_M
+Ralf Michael Dietzler,DE,331,Taurus,Wolfgang Drobing,MONO_M
+Rolf-Erik Berle-Jorgensen,NO,332,Baroness,Rolf-Erik Berle-Jorgensen,MONO_M
+Mehmet Can oaglar,US,333,Sirena,Mehmet Can oaglar,MONO_M
+Dario Donoso Cajas,CL,334,Buenos Vientos II,Dario Donoso Cajas,MONO_M
+Brendan Treacy,GB,335,Alderman,Emma Heathcote,MONO_M]]
+Mats Rydon,SE,336,Isa,Mats Rydon,MONO_M
+Guillaume Du Cheyron du Pavillon,GB,337,Inspiration,Guillaume Du Cheyron du Pavillon,MONO_M
+Kari Paanalahti,FR,338,Dolphin Star,Eric Roux,MONO_M
+Jerome Aboab,FR,339,SEAWI,Jerome Aboab,MONO_M
+Peter Sydney Gray,GB,340,Cherish,Peter Sydney Gray,MONO_M
+Torben ostergaard Andersen,DK,341,Con Kiki,Torben ostergaard Andersen,MONO_M
+Sergio Calvo,IT,342,Commedia,Sofia Van Wersch Montero,MONO_M
+null,CA,343,Sea To Sky,Mike Quinn,CAT_M
+Keith Hardy,GB,344,Spirit,Keith Hardy,CAT_M
+Peter Baker,GB,345,Fleet II,Peter Baker,MONO_M
+Kim Thomas Longstaff,GB,346,Vela,Anne Longstaff,MONO_M
+Edwin Alexander Zonligt,IT,347,Zeeland,Edwin Alexander Zonligt,MONO_M
+Hatty Millar,GB,348,Pepper,Hatty Millar,MONO_M
+Graham Gips,US,349,Allende,Graham Gips,CAT_M
+Stefan Antel,DE,350,Soul Mate,Stefan Antel,CAT_M
+Michael Von Pilar,DE,351,Wethomi,Michael Von Pilar,MONO_M
+Jan Lindroos,FI,352,La Capitana,Jan Lindroos,MONO_M
+Barry Harmer,GB,353,Pearl Bali,Barry Harmer,CAT_M
+Franz Stefan Kraemer,DE,354,Intrepid Bear,Franz Stefan Kraemer,CAT_M
+Gordon Innocent,GB,355,Pureblue,Gordon Innocent,MONO_S
+Trond Rosvik,NO,356,Go Beyond,Trond Rosvik,MONO_M
+Graham Marchand,GB,357,Allegra,Graham Marchand,MONO_S
+Karl-Rudolf Stratmann,DE,358,Orion,Karl-Rudolf Stratmann,MONO_S
+Mark Drobitko,AU,359,Fruit Salid 3,Mark Drobitko,MONO_M
+null,CA,360,MacPat,Miguel Castellote,MONO_M
+Mart Friese,DE,361,Somnium,Mart Friese,MONO_M
+Conor Phelan,IE,362,Endeavour of Cork,Conor Phelan,MONO_M
+Carsten Breuning,DK,363,Capri,Carsten Breuning,MONO_M
+Paul Weinberg,GB,364,Enigma,Diane Whittingham,MONO_M
+John Strickfuss,GB,365,Arcanum,John Strickfuss,MONO_M
+Jack Wills,GB,366,Billio,Jack Wills,MONO_S
+Niklaus Schoch,CH,367,Nalu,Niklaus Schoch,MONO_M
+Kenneth Philipsen,DK,368,Felicia,Kenneth Philipsen,MONO_S
+Mike Watson,GB,369,TekoToo,Mike Watson,MONO_S
+Michael Midgley,GB,370,Zigzag de Villeneuve,Michael Midgley,MONO_S
+Jim Audley,US,371,Kristina,Jim Audley,MONO_S
+Camilla Paulsen,NO,372,Delfini,Camilla Paulsen,MONO_M
+Hans-Jurgen Polczynski,DE,373,Moana,Hans-Jurgen Polczynski,MONO_S
+Bernard Estival,FR,374,Griounou,Bernard Estival,MONO_S
+John Miller,GB,375,Great Days,John Miller,MONO_M
